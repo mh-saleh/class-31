@@ -10,7 +10,7 @@ import Logo from "../../Images/subLogo.png";
 
 const Banner = () => {
   return (
-    <Section className="bg-Banner bg-cover bg-no-repeat bg-center py-[170px]">
+    <Section className="bg-BannerBG bg-cover bg-no-repeat bg-center py-[170px]">
       <Container className="">
         <div className="w-[686px]">
           <Image src={Logo} />
