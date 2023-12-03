@@ -11,7 +11,7 @@ export default {
         workSans: ["Work Sans"],
       },
       backgroundImage: {
-        Banner: "url('./src/assets/Images/Banner.png')",
+        Banner: "url('./src/assets/Images/Banner.jpg')",
       },
       colors: {
         reviewShadow: " 0px 30px 60px 0px rgba(162, 169, 192, 0.10)",
